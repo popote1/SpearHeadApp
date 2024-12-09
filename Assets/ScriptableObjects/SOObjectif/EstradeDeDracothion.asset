@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6486dc5eb6aaa6e4b982c7527a7998c6, type: 3}
+  m_Name: EstradeDeDracothion
+  m_EditorClassIdentifier: 
+  ObjectifName: Estrade de Dracothion
+  ObjectifDescription: "Vous ex\xE9cutez cette tactique de bataille si vous contr\xF4lez
+    l'objectif de Dracothion (1) \xE0 la fin de votre tour."
+  Phase: 4
+  ISOncePerBattle: 0
+  IsReaction: 1
+  OrderName: A Terre
+  OrderDescription: "(L'adversaire a annoncez une aptitude de tire)\nUtilis\xE9 Par:\nUne
+    unit\xE9 amie cibl\xE9e par cette aptitude de Tir.\nEffet:\nJusqu'\xE0 la fin
+    de la phase, seuls les jets de touche non modifi\xE9s de 6 r\xE9ussisent \xE0
+    toucher pour les attaques qui ciblent l'unit\xE9. Toutfois l'unit\xE9 a Frappe
+    En Dernier \xE0 ce tour "
+  OrdreMotClef: 

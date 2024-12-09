@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0ea484986d4b30968d86e0dd8ab289, type: 3}
+  m_Name: "NoyeDansLaFum\xE9e"
+  m_EditorClassIdentifier: 
+  Name: "Noy\xE9 dans la Fum\xE9e"
+  Royaume: Aqshy
+  Effect: "L'outsider choisit 1 Objecti sur le champ de bataille. S'il n'y a pas
+    d'outsider, les joueurs tirent au d\xE9 et le gagnat shoisit l'obj\xE9ctif.\nCet
+    objectif est noy\xE9 dans la fum\xE9e. Jusqu\xE0 la fin du round de bataille,
+    seuls les jets de touches non modifi\xE9s de 6 r\xE9ussisent \xE0 toucher pour
+    les attaque qui ciblent une unit\xE9 qui contests cet objectif."

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6486dc5eb6aaa6e4b982c7527a7998c6, type: 3}
+  m_Name: EstradeDIgnax
+  m_EditorClassIdentifier: 
+  ObjectifName: Estrad D'ignax
+  ObjectifDescription: "Vous ex\xE9cutez cette tactique de bataille si vous contr\xF4lez
+    l'objectif d'Ignax (3) \xE0 la fin de votre tour."
+  Phase: 5
+  ISOncePerBattle: 0
+  IsReaction: 1
+  OrderName: En Avant, vers la Victoire
+  OrderDescription: "Utilis\xE9 par:\nL'unit\xE9 qui utilise cette aptitude de Charge\nEffet:\nVous
+    pouvez relancer le jet de charge."
+  OrdreMotClef: 

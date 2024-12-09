@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6486dc5eb6aaa6e4b982c7527a7998c6, type: 3}
+  m_Name: NeFlanchezPas
+  m_EditorClassIdentifier: 
+  ObjectifName: Ne Flanchez Pas
+  ObjectifDescription: "Vous ex\xE9cutez cette tactique de bvataille \xE0 la fin
+    de votre tour si au moins une unit\xE9 amie utilis\xE9 une aptitude de Corps
+    \xE0 Crops \xE0 ce tour\nET\nsi aucune unit\xE9 amie n'a \xE9t\xE9 d\xE9truite
+    \xE0 ce tour."
+  Phase: 3
+  ISOncePerBattle: 0
+  IsReaction: 1
+  OrderName: Repli et Ralliment
+  OrderDescription: "(Vous annoncez une aptitude de Repli)\nUtilisez Par:\nL'unit\xE9
+    qui utilise l'aptitude de Repli\nEffet:\nAucun d\xE9g\xE2t mortel n'est inflig\xE9
+    \xE0 l'unit\xE9 par l'aptitude de Repli. En outre , apr\xE8s avoir r\xE9solu
+    l'aptitude jetez 1 d\xE9 pour chaque figurine tu\xE9e de l'unit\xE9. Pour chaque
+    5+ , vous pouvez ramener 1 figurine tu\xE9e dans l'unit\xE9."
+  OrdreMotClef: 

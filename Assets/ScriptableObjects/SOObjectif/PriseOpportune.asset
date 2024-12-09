@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6486dc5eb6aaa6e4b982c7527a7998c6, type: 3}
+  m_Name: PriseOpportune
+  m_EditorClassIdentifier: 
+  ObjectifName: Prise Opportune
+  ObjectifDescription: "Vous ex\xE9cutez cette tactique de batailler \xE0 la fin
+    de votre tour si vous gagn\xE9z le contr\xF4le d'un objectif qui \xE9tait par
+    votre adversaire au debut du tour\nET\nsi aucune des unit\xE9s constant cette
+    objectif n'a utilis\xE9 une aptitude de Corps \xE0 Corps \xE0 ce tour."
+  Phase: 8
+  ISOncePerBattle: 0
+  IsReaction: 1
+  OrderName: "Jusqu'\xE0 la mort"
+  OrderDescription: "(L'adversaire a annonc\xE9 un aptitiude d'attaque)\nUtilis\xE9
+    par :\n Une unit\xE9 amie cibl\xE9e par cette aptitude d'Attaque.\nEffet:\nCette
+    unit\xE9 a une protection (5+) \xE0 cette phase."
+  OrdreMotClef: 

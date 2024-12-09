@@ -1,0 +1,2465 @@
+fileFormatVersion: 2
+guid: 1a510d414f8f30743a05da6f5b0efeef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3452665859934378210
+    second: GhyranTerrain_0
+  - first:
+      213: 7671741962437313226
+    second: GhyranTerrain_1
+  - first:
+      213: -3907957588160804801
+    second: GhyranTerrain_2
+  - first:
+      213: -8277010066506378947
+    second: GhyranTerrain_3
+  - first:
+      213: -5591425007301806732
+    second: GhyranTerrain_4
+  - first:
+      213: -539724604960180746
+    second: GhyranTerrain_5
+  - first:
+      213: -5937488723959342250
+    second: GhyranTerrain_6
+  - first:
+      213: -4122252801177457254
+    second: GhyranTerrain_7
+  - first:
+      213: 5590342612908546494
+    second: GhyranTerrain_8
+  - first:
+      213: 9194225259924677924
+    second: GhyranTerrain_9
+  - first:
+      213: 8842025306591583931
+    second: GhyranTerrain_10
+  - first:
+      213: -338077278217480443
+    second: GhyranTerrain_11
+  - first:
+      213: 699174472106914610
+    second: GhyranTerrain_12
+  - first:
+      213: -6976712413401182097
+    second: GhyranTerrain_13
+  - first:
+      213: 7919877571452845805
+    second: GhyranTerrain_14
+  - first:
+      213: -1316854199386066714
+    second: GhyranTerrain_15
+  - first:
+      213: -6991354412677376720
+    second: GhyranTerrain_16
+  - first:
+      213: -4432547621888922634
+    second: GhyranTerrain_17
+  - first:
+      213: 3018273045113138321
+    second: GhyranTerrain_18
+  - first:
+      213: 8455759245924035702
+    second: GhyranTerrain_19
+  - first:
+      213: -1449921245296007490
+    second: GhyranTerrain_20
+  - first:
+      213: 1972616343243574837
+    second: GhyranTerrain_21
+  - first:
+      213: -8827117070983693249
+    second: GhyranTerrain_22
+  - first:
+      213: 5590986846412618899
+    second: GhyranTerrain_23
+  - first:
+      213: -7149013601749176743
+    second: GhyranTerrain_24
+  - first:
+      213: 4113251261394423109
+    second: GhyranTerrain_25
+  - first:
+      213: 7990400950225112034
+    second: GhyranTerrain_26
+  - first:
+      213: -4657091619168573962
+    second: GhyranTerrain_27
+  - first:
+      213: 1772451820443966278
+    second: GhyranTerrain_28
+  - first:
+      213: -6725832221329489546
+    second: GhyranTerrain_29
+  - first:
+      213: 8140070653916461402
+    second: GhyranTerrain_30
+  - first:
+      213: 3623176894898659902
+    second: GhyranTerrain_31
+  - first:
+      213: -9022432753437389371
+    second: GhyranTerrain_32
+  - first:
+      213: 49216717658762307
+    second: GhyranTerrain_33
+  - first:
+      213: -2084190578487089827
+    second: GhyranTerrain_34
+  - first:
+      213: -5896153605035350126
+    second: GhyranTerrain_35
+  - first:
+      213: -5452699471379700568
+    second: GhyranTerrain_36
+  - first:
+      213: -5909426974818586842
+    second: GhyranTerrain_37
+  - first:
+      213: -6255006723373208970
+    second: GhyranTerrain_38
+  - first:
+      213: -56496305246685684
+    second: GhyranTerrain_39
+  - first:
+      213: -272879403491009208
+    second: GhyranTerrain_40
+  - first:
+      213: -5234808775137306530
+    second: GhyranTerrain_41
+  - first:
+      213: 6186766276933641
+    second: GhyranTerrain_42
+  - first:
+      213: -2965459534725734299
+    second: GhyranTerrain_43
+  - first:
+      213: -2836519338744554782
+    second: GhyranTerrain_44
+  - first:
+      213: 4579119403123112664
+    second: GhyranTerrain_45
+  - first:
+      213: 381790519937415724
+    second: GhyranTerrain_46
+  - first:
+      213: 8028202712215476227
+    second: GhyranTerrain_47
+  - first:
+      213: 7757295405105393836
+    second: GhyranTerrain_48
+  - first:
+      213: -6331067206875755150
+    second: GhyranTerrain_49
+  - first:
+      213: -3864389712269947582
+    second: GhyranTerrain_50
+  - first:
+      213: -6066260090750022796
+    second: GhyranTerrain_51
+  - first:
+      213: -6687348575144360548
+    second: GhyranTerrain_52
+  - first:
+      213: 2716425730823380916
+    second: GhyranTerrain_53
+  - first:
+      213: 5160453897805247594
+    second: GhyranTerrain_54
+  - first:
+      213: 1060781410876605001
+    second: GhyranTerrain_55
+  - first:
+      213: -1800225613083361367
+    second: GhyranTerrain_56
+  - first:
+      213: 6367802149518375068
+    second: GhyranTerrain_57
+  - first:
+      213: -5288370298115807551
+    second: GhyranTerrain_58
+  - first:
+      213: 4797671748778927745
+    second: GhyranTerrain_59
+  - first:
+      213: 6580718725540234397
+    second: GhyranTerrain_60
+  - first:
+      213: 3501692024139655355
+    second: GhyranTerrain_61
+  - first:
+      213: -3793305790637549443
+    second: GhyranTerrain_62
+  - first:
+      213: -1632392030111436867
+    second: GhyranTerrain_63
+  - first:
+      213: -957578164779476877
+    second: GhyranTerrain_64
+  - first:
+      213: -2029933333930221322
+    second: GhyranTerrain_65
+  - first:
+      213: -4879594206418843737
+    second: GhyranTerrain_66
+  - first:
+      213: 728163288040047086
+    second: GhyranTerrain_67
+  - first:
+      213: 5764093335003634526
+    second: GhyranTerrain_68
+  - first:
+      213: -7262972953233009479
+    second: GhyranTerrain_69
+  - first:
+      213: -4370810838954584723
+    second: GhyranTerrain_70
+  - first:
+      213: 2310811628109990071
+    second: GhyranTerrain_71
+  - first:
+      213: 1494771942754908974
+    second: GhyranTerrain_72
+  - first:
+      213: -1368860125123795549
+    second: GhyranTerrain_73
+  - first:
+      213: 5104746135478891552
+    second: GhyranTerrain_74
+  - first:
+      213: 1626351706331400505
+    second: GhyranTerrain_75
+  - first:
+      213: -35994396681793496
+    second: GhyranTerrain_76
+  - first:
+      213: -7719427411509505383
+    second: GhyranTerrain_77
+  - first:
+      213: -7176337931652172946
+    second: GhyranTerrain_78
+  - first:
+      213: -2566334400870601366
+    second: GhyranTerrain_79
+  - first:
+      213: -6794931176644714317
+    second: GhyranTerrain_80
+  - first:
+      213: -6521161392989211139
+    second: GhyranTerrain_81
+  - first:
+      213: -1024203265397769127
+    second: GhyranTerrain_82
+  - first:
+      213: 7787464837988617477
+    second: GhyranTerrain_83
+  - first:
+      213: -4540710641782597772
+    second: GhyranTerrain_84
+  - first:
+      213: 8016084255695362290
+    second: GhyranTerrain_85
+  - first:
+      213: 3352548585228023029
+    second: GhyranTerrain_86
+  - first:
+      213: -7627103996652230395
+    second: GhyranTerrain_87
+  - first:
+      213: 5942746887185375729
+    second: GhyranTerrain_88
+  - first:
+      213: 3181676669831709257
+    second: GhyranTerrain_89
+  - first:
+      213: -7107390577784043696
+    second: GhyranTerrain_90
+  - first:
+      213: 5955862956476040570
+    second: GhyranTerrain_91
+  - first:
+      213: -5412498824999413566
+    second: GhyranTerrain_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GhyranTerrain_0
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 6348
+        width: 142
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8d18d7e455aef20800000000000000
+      internalID: 3452665859934378210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_1
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 6482
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2c88f0ba0877a60800000000000000
+      internalID: 7671741962437313226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_2
+      rect:
+        serializedVersion: 2
+        x: 8692
+        y: 6367
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f380260674524c9c0800000000000000
+      internalID: -3907957588160804801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_3
+      rect:
+        serializedVersion: 2
+        x: 8847
+        y: 6482
+        width: 152
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d311e8fa237222d80800000000000000
+      internalID: -8277010066506378947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_4
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 4311
+        width: 3128
+        height: 2055
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4753a8b94944762b0800000000000000
+      internalID: -5591425007301806732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_5
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 6315
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f57fc4d4538288f0800000000000000
+      internalID: -539724604960180746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_6
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 6253
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b1486b67dc99da0800000000000000
+      internalID: -5937488723959342250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_7
+      rect:
+        serializedVersion: 2
+        x: 8225
+        y: 6025
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d657ffae0dac6c0800000000000000
+      internalID: -4122252801177457254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_8
+      rect:
+        serializedVersion: 2
+        x: 8380
+        y: 6139
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9942fccf2e49d40800000000000000
+      internalID: 5590342612908546494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_9
+      rect:
+        serializedVersion: 2
+        x: 7913
+        y: 5797
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425ebba2923789f70800000000000000
+      internalID: 9194225259924677924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_10
+      rect:
+        serializedVersion: 2
+        x: 8069
+        y: 5911
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbed7665b2f25ba70800000000000000
+      internalID: 8842025306591583931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_11
+      rect:
+        serializedVersion: 2
+        x: 7602
+        y: 5569
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5075735b188ee4bf0800000000000000
+      internalID: -338077278217480443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_12
+      rect:
+        serializedVersion: 2
+        x: 7758
+        y: 5683
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23334fd5a77f3b900800000000000000
+      internalID: 699174472106914610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5331
+        width: 245
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f601a23360dbd2f90800000000000000
+      internalID: -6976712413401182097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_14
+      rect:
+        serializedVersion: 2
+        x: 7291
+        y: 5340
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeb70f90be09ed60800000000000000
+      internalID: 7919877571452845805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_15
+      rect:
+        serializedVersion: 2
+        x: 7447
+        y: 5454
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0bc98251899bde0800000000000000
+      internalID: -1316854199386066714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5389
+        width: 113
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03551851438b9fe90800000000000000
+      internalID: -6991354412677376720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 5389
+        width: 114
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbee4b2c6d6c72c0800000000000000
+      internalID: -4432547621888922634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_18
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 5389
+        width: 113
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cea11d75f03e920800000000000000
+      internalID: 3018273045113138321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_19
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 5389
+        width: 114
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ce68fcb34e85570800000000000000
+      internalID: 8455759245924035702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_20
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 5389
+        width: 113
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6e6d53f48d0ebe0800000000000000
+      internalID: -1449921245296007490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_21
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 5389
+        width: 114
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ec921ec14206b10800000000000000
+      internalID: 1972616343243574837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_22
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 5389
+        width: 113
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cfa31cac7cf7580800000000000000
+      internalID: -8827117070983693249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_23
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 5389
+        width: 114
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c3e4c1aec279d40800000000000000
+      internalID: 5590986846412618899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_24
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 5389
+        width: 113
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eed4d910a99cc90800000000000000
+      internalID: -7149013601749176743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_25
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 5055
+        width: 191
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d8753ba34351930800000000000000
+      internalID: 4113251261394423109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_26
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 5245
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb8c1b445b93ee60800000000000000
+      internalID: 7990400950225112034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_27
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 5245
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f52201c8dfae5fb0800000000000000
+      internalID: -4657091619168573962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_28
+      rect:
+        serializedVersion: 2
+        x: 7135
+        y: 5226
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b9e033a83099810800000000000000
+      internalID: 1772451820443966278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_29
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 4998
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67187ccca3b09a2a0800000000000000
+      internalID: -6725832221329489546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_30
+      rect:
+        serializedVersion: 2
+        x: 6980
+        y: 5112
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59b54db12757f070800000000000000
+      internalID: 8140070653916461402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_31
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 4770
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3266d2803c184230800000000000000
+      internalID: 3623176894898659902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_32
+      rect:
+        serializedVersion: 2
+        x: 6668
+        y: 4884
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdc381b631e9c280800000000000000
+      internalID: -9022432753437389371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_33
+      rect:
+        serializedVersion: 2
+        x: 6201
+        y: 4541
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34caf0d085adea000800000000000000
+      internalID: 49216717658762307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_34
+      rect:
+        serializedVersion: 2
+        x: 6357
+        y: 4655
+        width: 152
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55af0d16b77313e0800000000000000
+      internalID: -2084190578487089827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_35
+      rect:
+        serializedVersion: 2
+        x: 5890
+        y: 4313
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297aabe0987ac2ea0800000000000000
+      internalID: -5896153605035350126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_36
+      rect:
+        serializedVersion: 2
+        x: 6046
+        y: 4427
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4e37d68be1454b0800000000000000
+      internalID: -5452699471379700568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2211
+        width: 2299
+        height: 2003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fa3d3d97f7dfda0800000000000000
+      internalID: -5909426974818586842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_38
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2145
+        width: 2752
+        height: 2141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ae8a98680c139a0800000000000000
+      internalID: -6255006723373208970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_39
+      rect:
+        serializedVersion: 2
+        x: 5735
+        y: 4199
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0636a2e8e8473ff0800000000000000
+      internalID: -56496305246685684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_40
+      rect:
+        serializedVersion: 2
+        x: 6485
+        y: 2386
+        width: 2515
+        height: 1828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dd568d0a9863cf0800000000000000
+      internalID: -272879403491009208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_41
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3285
+        width: 142
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58d7da77293a57b0800000000000000
+      internalID: -5234808775137306530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_42
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 3285
+        width: 142
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908be36c4daf51000800000000000000
+      internalID: 6186766276933641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_43
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 3285
+        width: 142
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560a0ecc34298d6d0800000000000000
+      internalID: -2965459534725734299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_44
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 3285
+        width: 142
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eada9f90b8a2a8d0800000000000000
+      internalID: -2836519338744554782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_45
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 3285
+        width: 142
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da704ff5dc4c8f30800000000000000
+      internalID: 4579119403123112664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_46
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 3285
+        width: 142
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a3b7f74746c4500800000000000000
+      internalID: 381790519937415724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_47
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 3285
+        width: 142
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3085e6ed4d7e96f60800000000000000
+      internalID: 8028202712215476227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_48
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 3285
+        width: 142
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0b31f221377ab60800000000000000
+      internalID: 7757295405105393836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_49
+      rect:
+        serializedVersion: 2
+        x: 6172
+        y: 3285
+        width: 142
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dcb053be78328a0800000000000000
+      internalID: -6331067206875755150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_50
+      rect:
+        serializedVersion: 2
+        x: 6339
+        y: 3285
+        width: 142
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dc976f70eee5ac0800000000000000
+      internalID: -3864389712269947582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_51
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2295
+        width: 84
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b47bf769050dba0800000000000000
+      internalID: -6066260090750022796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_52
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 2373
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c954e49e6e3c133a0800000000000000
+      internalID: -6687348575144360548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_53
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2487
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf55785fcea2b520800000000000000
+      internalID: 2716425730823380916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_54
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 2145
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6436729a7d9d9740800000000000000
+      internalID: 5160453897805247594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_55
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 2259
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94243aba217a8be00800000000000000
+      internalID: 1060781410876605001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_56
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2140
+        width: 30
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af3b98c7505407e0800000000000000
+      internalID: -1800225613083361367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_57
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 2235
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98f202215afe5850800000000000000
+      internalID: 6367802149518375068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_58
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 2238
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6a41c9b3feb96b0800000000000000
+      internalID: -5288370298115807551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_59
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1916
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18625ee4901c49240800000000000000
+      internalID: 4797671748778927745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_60
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 2030
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94469290d8635b50800000000000000
+      internalID: 6580718725540234397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_61
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1973
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a9abd752889030800000000000000
+      internalID: 3501692024139655355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_62
+      rect:
+        serializedVersion: 2
+        x: 5670
+        y: 162
+        width: 3075
+        height: 1926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78dd903b787b5bc0800000000000000
+      internalID: -3793305790637549443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_63
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 1688
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf670fe8149859e0800000000000000
+      internalID: -1632392030111436867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_64
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 1802
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37816ab8bbff5b2f0800000000000000
+      internalID: -957578164779476877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_65
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1806
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f06d59436a34d3e0800000000000000
+      internalID: -2029933333930221322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_66
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1574
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7c9562ce2384cb0800000000000000
+      internalID: -4879594206418843737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_67
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1639
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee18b1a07a4fa1a00800000000000000
+      internalID: 728163288040047086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_68
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1460
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b9615495c2eff40800000000000000
+      internalID: 5764093335003634526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_69
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1472
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4d645749cb43b90800000000000000
+      internalID: -7262972953233009479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_70
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1231
+        width: 152
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d655fa313b2c753c0800000000000000
+      internalID: -4370810838954584723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_71
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1346
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8865cbee6a11020800000000000000
+      internalID: 2310811628109990071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_72
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1305
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b702c892f7eb410800000000000000
+      internalID: 1494771942754908974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_73
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1117
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5accef7f4d00de0800000000000000
+      internalID: -1368860125123795549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_74
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1138
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02474c96093b7d640800000000000000
+      internalID: 5104746135478891552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_75
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 889
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939cbb79246f19610800000000000000
+      internalID: 1626351706331400505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_76
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1003
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82090e3794f108ff0800000000000000
+      internalID: -35994396681793496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_77
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 971
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99210932ba51fd490800000000000000
+      internalID: -7719427411509505383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_78
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 775
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63f5bb4ca6886c90800000000000000
+      internalID: -7176337931652172946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_79
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 804
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d2e3d957c826cd0800000000000000
+      internalID: -2566334400870601366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_80
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 547
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b06dde881e83b1a0800000000000000
+      internalID: -6794931176644714317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_81
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 661
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5f2ef734e2085a0800000000000000
+      internalID: -6521161392989211139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_82
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 637
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cbb2c7e8c49c1f0800000000000000
+      internalID: -1024203265397769127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_83
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 433
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d0829a202a21c60800000000000000
+      internalID: 7787464837988617477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_84
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 470
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47756b0aab72cf0c0800000000000000
+      internalID: -4540710641782597772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_85
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 204
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8d256d82ade3f60800000000000000
+      internalID: 8016084255695362290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_86
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 318
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f431cafc25a68e20800000000000000
+      internalID: 3352548585228023029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_87
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 303
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509e49e3355172690800000000000000
+      internalID: -7627103996652230395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_88
+      rect:
+        serializedVersion: 2
+        x: 8694
+        y: 245
+        width: 133
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f12eb0dec0e87250800000000000000
+      internalID: 5942746887185375729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_89
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 90
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942877fe216972c20800000000000000
+      internalID: 3181676669831709257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_90
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 136
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05749331de97d5d90800000000000000
+      internalID: -7107390577784043696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7589abadc977a250800000000000000
+      internalID: 5955862956476040570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhyranTerrain_92
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 0
+        width: 30
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d0bccef0f2e4b0800000000000000
+      internalID: -5412498824999413566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GhyranTerrain_0: 3452665859934378210
+      GhyranTerrain_1: 7671741962437313226
+      GhyranTerrain_10: 8842025306591583931
+      GhyranTerrain_11: -338077278217480443
+      GhyranTerrain_12: 699174472106914610
+      GhyranTerrain_13: -6976712413401182097
+      GhyranTerrain_14: 7919877571452845805
+      GhyranTerrain_15: -1316854199386066714
+      GhyranTerrain_16: -6991354412677376720
+      GhyranTerrain_17: -4432547621888922634
+      GhyranTerrain_18: 3018273045113138321
+      GhyranTerrain_19: 8455759245924035702
+      GhyranTerrain_2: -3907957588160804801
+      GhyranTerrain_20: -1449921245296007490
+      GhyranTerrain_21: 1972616343243574837
+      GhyranTerrain_22: -8827117070983693249
+      GhyranTerrain_23: 5590986846412618899
+      GhyranTerrain_24: -7149013601749176743
+      GhyranTerrain_25: 4113251261394423109
+      GhyranTerrain_26: 7990400950225112034
+      GhyranTerrain_27: -4657091619168573962
+      GhyranTerrain_28: 1772451820443966278
+      GhyranTerrain_29: -6725832221329489546
+      GhyranTerrain_3: -8277010066506378947
+      GhyranTerrain_30: 8140070653916461402
+      GhyranTerrain_31: 3623176894898659902
+      GhyranTerrain_32: -9022432753437389371
+      GhyranTerrain_33: 49216717658762307
+      GhyranTerrain_34: -2084190578487089827
+      GhyranTerrain_35: -5896153605035350126
+      GhyranTerrain_36: -5452699471379700568
+      GhyranTerrain_37: -5909426974818586842
+      GhyranTerrain_38: -6255006723373208970
+      GhyranTerrain_39: -56496305246685684
+      GhyranTerrain_4: -5591425007301806732
+      GhyranTerrain_40: -272879403491009208
+      GhyranTerrain_41: -5234808775137306530
+      GhyranTerrain_42: 6186766276933641
+      GhyranTerrain_43: -2965459534725734299
+      GhyranTerrain_44: -2836519338744554782
+      GhyranTerrain_45: 4579119403123112664
+      GhyranTerrain_46: 381790519937415724
+      GhyranTerrain_47: 8028202712215476227
+      GhyranTerrain_48: 7757295405105393836
+      GhyranTerrain_49: -6331067206875755150
+      GhyranTerrain_5: -539724604960180746
+      GhyranTerrain_50: -3864389712269947582
+      GhyranTerrain_51: -6066260090750022796
+      GhyranTerrain_52: -6687348575144360548
+      GhyranTerrain_53: 2716425730823380916
+      GhyranTerrain_54: 5160453897805247594
+      GhyranTerrain_55: 1060781410876605001
+      GhyranTerrain_56: -1800225613083361367
+      GhyranTerrain_57: 6367802149518375068
+      GhyranTerrain_58: -5288370298115807551
+      GhyranTerrain_59: 4797671748778927745
+      GhyranTerrain_6: -5937488723959342250
+      GhyranTerrain_60: 6580718725540234397
+      GhyranTerrain_61: 3501692024139655355
+      GhyranTerrain_62: -3793305790637549443
+      GhyranTerrain_63: -1632392030111436867
+      GhyranTerrain_64: -957578164779476877
+      GhyranTerrain_65: -2029933333930221322
+      GhyranTerrain_66: -4879594206418843737
+      GhyranTerrain_67: 728163288040047086
+      GhyranTerrain_68: 5764093335003634526
+      GhyranTerrain_69: -7262972953233009479
+      GhyranTerrain_7: -4122252801177457254
+      GhyranTerrain_70: -4370810838954584723
+      GhyranTerrain_71: 2310811628109990071
+      GhyranTerrain_72: 1494771942754908974
+      GhyranTerrain_73: -1368860125123795549
+      GhyranTerrain_74: 5104746135478891552
+      GhyranTerrain_75: 1626351706331400505
+      GhyranTerrain_76: -35994396681793496
+      GhyranTerrain_77: -7719427411509505383
+      GhyranTerrain_78: -7176337931652172946
+      GhyranTerrain_79: -2566334400870601366
+      GhyranTerrain_8: 5590342612908546494
+      GhyranTerrain_80: -6794931176644714317
+      GhyranTerrain_81: -6521161392989211139
+      GhyranTerrain_82: -1024203265397769127
+      GhyranTerrain_83: 7787464837988617477
+      GhyranTerrain_84: -4540710641782597772
+      GhyranTerrain_85: 8016084255695362290
+      GhyranTerrain_86: 3352548585228023029
+      GhyranTerrain_87: -7627103996652230395
+      GhyranTerrain_88: 5942746887185375729
+      GhyranTerrain_89: 3181676669831709257
+      GhyranTerrain_9: 9194225259924677924
+      GhyranTerrain_90: -7107390577784043696
+      GhyranTerrain_91: 5955862956476040570
+      GhyranTerrain_92: -5412498824999413566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

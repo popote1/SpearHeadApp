@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6486dc5eb6aaa6e4b982c7527a7998c6, type: 3}
+  m_Name: AttaquezSurDeuxFront
+  m_EditorClassIdentifier: 
+  ObjectifName: Attaquez sur Deux Front
+  ObjectifDescription: "Vous ex\xE9cutez cette tactique de bataille \xE0 la fin de
+    votre tour si vous contr\xF4lez 2 objectis qui \xE9t\xE9 control\xE9s par votre
+    adversaire au d\xE9but du tour."
+  Phase: 3
+  ISOncePerBattle: 0
+  IsReaction: 0
+  OrderName: Appeler des Renforts
+  OrderDescription: "(n'importe quelle phase de mouvement)\nAnnonce:\nChoisissez
+    une unit\xE9 d'infanterie ou de cavalerie amie de 5 Figurine ou plus qui a \xE9t\xE9
+    d\xE9truite mais pas d\xE9j\xE0 remplac\xE9e\nEffet:\nPlacez une unit\xE9 de
+    remplacement compos\xE9e de D3 figurines de cette unit\xE9 amie n'importe o\xF9
+    sur le champ de bataolle a plus de 6\" des unit\xE9e ennemies."
+  OrdreMotClef: 

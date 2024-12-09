@@ -1,0 +1,1490 @@
+fileFormatVersion: 2
+guid: 2bb6ad610cf10ea4b8d7e61be3e8cdf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -862684940342588825
+    second: AqshyTerrain_0
+  - first:
+      213: -6468004222981086232
+    second: AqshyTerrain_1
+  - first:
+      213: 1823450039733075337
+    second: AqshyTerrain_2
+  - first:
+      213: 6991558876885582645
+    second: AqshyTerrain_3
+  - first:
+      213: 6542556888572346213
+    second: AqshyTerrain_4
+  - first:
+      213: -2143358887953239451
+    second: AqshyTerrain_5
+  - first:
+      213: 8291411632593943504
+    second: AqshyTerrain_6
+  - first:
+      213: -7701301177993962352
+    second: AqshyTerrain_7
+  - first:
+      213: 112816876696274377
+    second: AqshyTerrain_8
+  - first:
+      213: 8626580922419382405
+    second: AqshyTerrain_9
+  - first:
+      213: -1966352013663918533
+    second: AqshyTerrain_10
+  - first:
+      213: 5431275153698292742
+    second: AqshyTerrain_11
+  - first:
+      213: 4918812493134630509
+    second: AqshyTerrain_12
+  - first:
+      213: -2496482954136420328
+    second: AqshyTerrain_13
+  - first:
+      213: 7767108983134647796
+    second: AqshyTerrain_14
+  - first:
+      213: 6391970592640341011
+    second: AqshyTerrain_15
+  - first:
+      213: 1686009916683347701
+    second: AqshyTerrain_16
+  - first:
+      213: 5427322441284704742
+    second: AqshyTerrain_17
+  - first:
+      213: 2820584674462103744
+    second: AqshyTerrain_18
+  - first:
+      213: -1986605060461729567
+    second: AqshyTerrain_19
+  - first:
+      213: -5019728132474461209
+    second: AqshyTerrain_20
+  - first:
+      213: 766707255377113609
+    second: AqshyTerrain_21
+  - first:
+      213: 7988478743992740954
+    second: AqshyTerrain_22
+  - first:
+      213: 3883038354286920956
+    second: AqshyTerrain_23
+  - first:
+      213: 501182237357987999
+    second: AqshyTerrain_24
+  - first:
+      213: -4594855325220665477
+    second: AqshyTerrain_25
+  - first:
+      213: 3327988872091502666
+    second: AqshyTerrain_26
+  - first:
+      213: 37392381980421270
+    second: AqshyTerrain_27
+  - first:
+      213: 7136102648509158132
+    second: AqshyTerrain_28
+  - first:
+      213: 6605084565086536126
+    second: AqshyTerrain_29
+  - first:
+      213: -273153275291083232
+    second: AqshyTerrain_30
+  - first:
+      213: 3683900936693834810
+    second: AqshyTerrain_31
+  - first:
+      213: 7433928492656597088
+    second: AqshyTerrain_32
+  - first:
+      213: -1519425195760567363
+    second: AqshyTerrain_33
+  - first:
+      213: -4660014796634184602
+    second: AqshyTerrain_34
+  - first:
+      213: 5011780248121047598
+    second: AqshyTerrain_35
+  - first:
+      213: -5442981851046658411
+    second: AqshyTerrain_36
+  - first:
+      213: 4021333226750982040
+    second: AqshyTerrain_37
+  - first:
+      213: 4477763934538324268
+    second: AqshyTerrain_38
+  - first:
+      213: 6546128660913875665
+    second: AqshyTerrain_39
+  - first:
+      213: -8378517931928696106
+    second: AqshyTerrain_40
+  - first:
+      213: -1483916554238537495
+    second: AqshyTerrain_41
+  - first:
+      213: -3919875775728839719
+    second: AqshyTerrain_42
+  - first:
+      213: -5031581236852105615
+    second: AqshyTerrain_43
+  - first:
+      213: -4641401445773449435
+    second: AqshyTerrain_44
+  - first:
+      213: -241687324868992525
+    second: AqshyTerrain_45
+  - first:
+      213: -7715765737020252326
+    second: AqshyTerrain_46
+  - first:
+      213: -1733121824605929336
+    second: AqshyTerrain_47
+  - first:
+      213: -5712464557253483949
+    second: AqshyTerrain_48
+  - first:
+      213: 3709553968974160293
+    second: AqshyTerrain_49
+  - first:
+      213: -5993705759800336288
+    second: AqshyTerrain_50
+  - first:
+      213: 1188661022907605270
+    second: AqshyTerrain_51
+  - first:
+      213: -8337103013698306799
+    second: AqshyTerrain_52
+  - first:
+      213: 8657289784643767728
+    second: AqshyTerrain_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AqshyTerrain_0
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 6348
+        width: 142
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a0dc11e902704f0800000000000000
+      internalID: -862684940342588825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_1
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 6482
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e36c7b9d680d36a0800000000000000
+      internalID: -6468004222981086232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_2
+      rect:
+        serializedVersion: 2
+        x: 5681
+        y: 4664
+        width: 2730
+        height: 1936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d36fb66223e4910800000000000000
+      internalID: 1823450039733075337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4440
+        width: 3218
+        height: 1926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5338ef271c1070160800000000000000
+      internalID: 6991558876885582645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_4
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 6315
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fb32283d4dbca50800000000000000
+      internalID: 6542556888572346213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_5
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 6148
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562fe5982724142e0800000000000000
+      internalID: -2143358887953239451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_6
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 5981
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbbd4733f2011370800000000000000
+      internalID: 8291411632593943504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_7
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 5814
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c5f51c16b7f1590800000000000000
+      internalID: -7701301177993962352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_8
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 5647
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c586240a5ec09100800000000000000
+      internalID: 112816876696274377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_9
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 5480
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58808f2b4a5c7b770800000000000000
+      internalID: 8626580922419382405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5331
+        width: 245
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b362032034d16b4e0800000000000000
+      internalID: -1966352013663918533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_11
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 5313
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6048795e9f3cf5b40800000000000000
+      internalID: 5431275153698292742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_12
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 5146
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e0b0ac6e1234440800000000000000
+      internalID: 4918812493134630509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_13
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 4979
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81081eaeaf5ba5dd0800000000000000
+      internalID: -2496482954136420328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_14
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 4812
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f57c7fd7705acb60800000000000000
+      internalID: 7767108983134647796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_15
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 4645
+        width: 30
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314121d4367d4b850800000000000000
+      internalID: 6391970592640341011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_16
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 4478
+        width: 30
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f662bb1619e56710800000000000000
+      internalID: 1686009916683347701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_17
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 4311
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9d7425109b15b40800000000000000
+      internalID: 5427322441284704742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3282
+        width: 152
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8793c31dab42720800000000000000
+      internalID: 2820584674462103744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3282
+        width: 977
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e86f2619392e64e0800000000000000
+      internalID: -1986605060461729567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_20
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 3282
+        width: 164
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e323d2fbd7565ab0800000000000000
+      internalID: -5019728132474461209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_21
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 3282
+        width: 1144
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902b773cf24e3aa00800000000000000
+      internalID: 766707255377113609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_22
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 3282
+        width: 164
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c2277c717ccde60800000000000000
+      internalID: 7988478743992740954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_23
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 2145
+        width: 3587
+        height: 2141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf44d7c5fc253e530800000000000000
+      internalID: 3883038354286920956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_24
+      rect:
+        serializedVersion: 2
+        x: 6164
+        y: 3282
+        width: 164
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f985579e69e84f600800000000000000
+      internalID: 501182237357987999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_25
+      rect:
+        serializedVersion: 2
+        x: 6339
+        y: 3282
+        width: 977
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7709e12d6bcb30c0800000000000000
+      internalID: -4594855325220665477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_26
+      rect:
+        serializedVersion: 2
+        x: 7322
+        y: 3282
+        width: 164
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4887792f346f2e20800000000000000
+      internalID: 3327988872091502666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_27
+      rect:
+        serializedVersion: 2
+        x: 7508
+        y: 3282
+        width: 1144
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69caf3d5c28d48000800000000000000
+      internalID: 37392381980421270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_28
+      rect:
+        serializedVersion: 2
+        x: 8673
+        y: 3282
+        width: 164
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2dc15dc87880360800000000000000
+      internalID: 7136102648509158132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_29
+      rect:
+        serializedVersion: 2
+        x: 8844
+        y: 3282
+        width: 156
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1066daa69f9ab50800000000000000
+      internalID: 6605084565086536126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_30
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 2140
+        width: 30
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e5a091b80953cf0800000000000000
+      internalID: -273153275291083232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_31
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 2235
+        width: 146
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a346d5f3268df1330800000000000000
+      internalID: 3683900936693834810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_32
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 2238
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0689372d39e9a2760800000000000000
+      internalID: 7433928492656597088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_33
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1973
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbb9efa5dae9eae0800000000000000
+      internalID: -1519425195760567363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_34
+      rect:
+        serializedVersion: 2
+        x: 5485
+        y: 250
+        width: 3248
+        height: 1862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6642e867b3d445fb0800000000000000
+      internalID: -4660014796634184602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_35
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 3419
+        height: 1810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2af295059b6d8540800000000000000
+      internalID: 5011780248121047598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_36
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1806
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e377938d4a674b0800000000000000
+      internalID: -5442981851046658411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_37
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1639
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897b7f78345aec730800000000000000
+      internalID: 4021333226750982040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_38
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1472
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2956320396342e30800000000000000
+      internalID: 4477763934538324268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_39
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1305
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da66cf855588da50800000000000000
+      internalID: 6546128660913875665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_40
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 972
+        width: 196
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da462b055689bb80800000000000000
+      internalID: -8378517931928696106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_41
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1138
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e05a4c81c1186be0800000000000000
+      internalID: -1483916554238537495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_42
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 971
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3160810cdc999c0800000000000000
+      internalID: -3919875775728839719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 821
+        width: 245
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ed8e6068b3c2ab0800000000000000
+      internalID: -5031581236852105615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 879
+        width: 114
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52760bce9fd669fb0800000000000000
+      internalID: -4641401445773449435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 879
+        width: 113
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1287698aa55acf0800000000000000
+      internalID: -241687324868992525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_46
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 804
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f17ca21f71ce490800000000000000
+      internalID: -7715765737020252326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_47
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 637
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88003eb02e6b2f7e0800000000000000
+      internalID: -1733121824605929336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_48
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 470
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352a5e840cf39b0b0800000000000000
+      internalID: -5712464557253483949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_49
+      rect:
+        serializedVersion: 2
+        x: 5421
+        y: 272
+        width: 70
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a168d34eabfa7330800000000000000
+      internalID: 3709553968974160293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_50
+      rect:
+        serializedVersion: 2
+        x: 3915
+        y: 263
+        width: 84
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06063e21e5412dca0800000000000000
+      internalID: -5993705759800336288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_51
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 303
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611a2cc07e8fe7010800000000000000
+      internalID: 1188661022907605270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_52
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 136
+        width: 31
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d7cac1bf8ac4c80800000000000000
+      internalID: -8337103013698306799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AqshyTerrain_53
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 0
+        width: 30
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd4f4bd03fd42870800000000000000
+      internalID: 8657289784643767728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AqshyTerrain_0: -862684940342588825
+      AqshyTerrain_1: -6468004222981086232
+      AqshyTerrain_10: -1966352013663918533
+      AqshyTerrain_11: 5431275153698292742
+      AqshyTerrain_12: 4918812493134630509
+      AqshyTerrain_13: -2496482954136420328
+      AqshyTerrain_14: 7767108983134647796
+      AqshyTerrain_15: 6391970592640341011
+      AqshyTerrain_16: 1686009916683347701
+      AqshyTerrain_17: 5427322441284704742
+      AqshyTerrain_18: 2820584674462103744
+      AqshyTerrain_19: -1986605060461729567
+      AqshyTerrain_2: 1823450039733075337
+      AqshyTerrain_20: -5019728132474461209
+      AqshyTerrain_21: 766707255377113609
+      AqshyTerrain_22: 7988478743992740954
+      AqshyTerrain_23: 3883038354286920956
+      AqshyTerrain_24: 501182237357987999
+      AqshyTerrain_25: -4594855325220665477
+      AqshyTerrain_26: 3327988872091502666
+      AqshyTerrain_27: 37392381980421270
+      AqshyTerrain_28: 7136102648509158132
+      AqshyTerrain_29: 6605084565086536126
+      AqshyTerrain_3: 6991558876885582645
+      AqshyTerrain_30: -273153275291083232
+      AqshyTerrain_31: 3683900936693834810
+      AqshyTerrain_32: 7433928492656597088
+      AqshyTerrain_33: -1519425195760567363
+      AqshyTerrain_34: -4660014796634184602
+      AqshyTerrain_35: 5011780248121047598
+      AqshyTerrain_36: -5442981851046658411
+      AqshyTerrain_37: 4021333226750982040
+      AqshyTerrain_38: 4477763934538324268
+      AqshyTerrain_39: 6546128660913875665
+      AqshyTerrain_4: 6542556888572346213
+      AqshyTerrain_40: -8378517931928696106
+      AqshyTerrain_41: -1483916554238537495
+      AqshyTerrain_42: -3919875775728839719
+      AqshyTerrain_43: -5031581236852105615
+      AqshyTerrain_44: -4641401445773449435
+      AqshyTerrain_45: -241687324868992525
+      AqshyTerrain_46: -7715765737020252326
+      AqshyTerrain_47: -1733121824605929336
+      AqshyTerrain_48: -5712464557253483949
+      AqshyTerrain_49: 3709553968974160293
+      AqshyTerrain_5: -2143358887953239451
+      AqshyTerrain_50: -5993705759800336288
+      AqshyTerrain_51: 1188661022907605270
+      AqshyTerrain_52: -8337103013698306799
+      AqshyTerrain_53: 8657289784643767728
+      AqshyTerrain_6: 8291411632593943504
+      AqshyTerrain_7: -7701301177993962352
+      AqshyTerrain_8: 112816876696274377
+      AqshyTerrain_9: 8626580922419382405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

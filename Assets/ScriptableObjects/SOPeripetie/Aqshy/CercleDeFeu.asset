@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0ea484986d4b30968d86e0dd8ab289, type: 3}
+  m_Name: CercleDeFeu
+  m_EditorClassIdentifier: 
+  Name: Cercle de Feu
+  Royaume: 0
+  Effect: "L'outsider choisir 1 objectif sur le champ de bataille. S'il n'y a pas
+    de d'outsider, les joueur tirent au d\xE9 et le gagnant choisit l'objectif.\nCet
+    objectif n'est plus contr\xF4l\xE9 par aucun joueur et ne peu plus \xEAtre contest\xE9
+    ni control\xE9 \xE0 ce round de bataille.\nDe plus, \xE0 la fin de chaque tour
+    de ce round de bataille, apr\xE8s que des points de victoire ont \xE9t\xE9 marqu\xE9s,
+    infligez D3 d\xE9g\xE2t mortels \xE0 chaque unit\xE9 qui a une ou plusieur figurine
+    sur cet objectif (faites des jet s\xE9par\xE9 pour chacune)."
